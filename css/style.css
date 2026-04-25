@@ -1,0 +1,11 @@
+body {
+        padding-top: 4rem;
+}
+
+.uep_cover {
+        height: 20rem;
+        width: 100%;
+        object-fit: cover;
+        object-position: 100% 50%;
+        filter: brightness(0.8);
+}
