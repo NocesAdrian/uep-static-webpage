@@ -17,8 +17,8 @@ body {
 }
 
 .slider-wrapper {
-    overflow-x: hidden;
-    width: 100%;
+        overflow: hidden;
+        width: 100%;
 }
 
 .slider {
